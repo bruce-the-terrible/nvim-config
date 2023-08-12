@@ -1,2 +1,3 @@
 # nvim-config
-nvim config files
+
+This is a config set of neovim , work on Mac book
